@@ -1,2 +1,2 @@
 #!/bin/bash
-mktemp -p my_first_directory
+mktemp -dt my_first_directory
